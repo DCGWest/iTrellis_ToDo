@@ -1,0 +1,10 @@
+C:\GitHub\iTrellis_ToDo\iTrellis_ToDo.Infrastructure\bin\Debug\iTrellis_ToDo.Infrastructure.dll.config
+C:\GitHub\iTrellis_ToDo\iTrellis_ToDo.Infrastructure\bin\Debug\iTrellis_ToDo.Infrastructure.dll
+C:\GitHub\iTrellis_ToDo\iTrellis_ToDo.Infrastructure\bin\Debug\iTrellis_ToDo.Infrastructure.pdb
+C:\GitHub\iTrellis_ToDo\iTrellis_ToDo.Infrastructure\bin\Debug\EntityFramework.dll
+C:\GitHub\iTrellis_ToDo\iTrellis_ToDo.Infrastructure\bin\Debug\EntityFramework.xml
+C:\GitHub\iTrellis_ToDo\iTrellis_ToDo.Infrastructure\obj\Debug\iTrellis_ToDo.Infrastructure.csprojResolveAssemblyReference.cache
+C:\GitHub\iTrellis_ToDo\iTrellis_ToDo.Infrastructure\obj\Debug\iTrellis_ToDo.Infrastructure.dll
+C:\GitHub\iTrellis_ToDo\iTrellis_ToDo.Infrastructure\obj\Debug\iTrellis_ToDo.Infrastructure.pdb
+C:\GitHub\iTrellis_ToDo\iTrellis_ToDo.Infrastructure\bin\Debug\iTrellis_ToDo.Core.dll
+C:\GitHub\iTrellis_ToDo\iTrellis_ToDo.Infrastructure\bin\Debug\iTrellis_ToDo.Core.pdb

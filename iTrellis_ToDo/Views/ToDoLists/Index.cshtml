@@ -1,0 +1,4 @@
+﻿@foreach (var todolist in Model.ToDoListModels)
+{
+   @Html.ActionLink((string)todolist.ListName, "Index", "ToDoList", new { id = todolist.ID }, null)<br />
+}

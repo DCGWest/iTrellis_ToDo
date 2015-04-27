@@ -1,0 +1,12 @@
+﻿<h2>@Model.ListName</h2>
+@foreach (var todolistitem in Model.ListItems)
+{
+    if (todolistitem.ItemDueDate != null && todolistitem.ItemDueDate < DateTime.Now)
+    {
+        @Html.ActionLink((string)todolistitem.ItemName, "Index", "ToDoListItem", new { id = todolistitem.ID }, new { @style = "color:Red;" })<br />
+    }
+    else
+    {
+        @Html.ActionLink((string)todolistitem.ItemName, "Index", "ToDoListItem", new { id = todolistitem.ID }, null)<br />
+    }
+}

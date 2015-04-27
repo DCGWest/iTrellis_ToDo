@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e23f9bd128e44c36bea67c2c27aa94b8" Name="Diagram1" >
+        <EntityTypeShape EntityType="iTrellis_ToDoModel.ToDoList" Width="1.75" PointX="0.5" PointY="0.5" />
+        <EntityTypeShape EntityType="iTrellis_ToDoModel.ToDoTaskItem" Width="2.375" PointX="3" PointY="1.5" />
+        <EntityTypeShape EntityType="iTrellis_ToDoModel.UserProfile" Width="1.5" PointX="2.1155011049078318" PointY="12.692863157341659" />
+        <EntityTypeShape EntityType="iTrellis_ToDoModel.webpages_Membership" Width="1.5" PointX="1.0820123819084895" PointY="5.7226589795773188" />
+        <EntityTypeShape EntityType="iTrellis_ToDoModel.webpages_OAuthMembership" Width="1.5" PointX="1.22370524202646" PointY="0.78398142791538561" />
+        <EntityTypeShape EntityType="iTrellis_ToDoModel.webpages_Roles" Width="1.5" PointX="2.4751479395083842" PointY="8.6933089088151743" />
+        <AssociationConnector Association="iTrellis_ToDoModel.FK_ToDoTaskItem_ToDoList" />
+        <AssociationConnector Association="iTrellis_ToDoModel.webpages_UsersInRoles" />
+        <AssociationConnector Association="iTrellis_ToDoModel.FK_ToDoList_UserProfile" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

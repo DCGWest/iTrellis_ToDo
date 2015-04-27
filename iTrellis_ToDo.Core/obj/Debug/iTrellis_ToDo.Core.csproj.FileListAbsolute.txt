@@ -1,0 +1,4 @@
+C:\GitHub\iTrellis_ToDo\iTrellis_ToDo.Core\bin\Debug\iTrellis_ToDo.Core.dll
+C:\GitHub\iTrellis_ToDo\iTrellis_ToDo.Core\bin\Debug\iTrellis_ToDo.Core.pdb
+C:\GitHub\iTrellis_ToDo\iTrellis_ToDo.Core\obj\Debug\iTrellis_ToDo.Core.dll
+C:\GitHub\iTrellis_ToDo\iTrellis_ToDo.Core\obj\Debug\iTrellis_ToDo.Core.pdb
